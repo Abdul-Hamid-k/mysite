@@ -1,6 +1,6 @@
-# mySite
+# MySite
 
-**mySite — Site Manager** is an offline-first app for tender contractors: expenses, party dues, labour and machinery attendance, material stock and planning, and site profit, for Android and Windows. It works without internet and syncs when you are online. Available in English, Hindi, Marathi, Gujarati, Tamil and Telugu.
+**MySite — Site Manager** is an offline-first app for tender contractors: expenses, party dues, labour and machinery attendance, material stock and planning, and site profit, for Android and Windows. It works without internet and syncs when you are online. Available in English, Hindi, Marathi, Gujarati, Tamil and Telugu.
 
 This repository only holds the **downloads**. Get the latest version from the [Releases page](../../releases).
 
