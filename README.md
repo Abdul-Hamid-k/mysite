@@ -7,7 +7,8 @@ This repository only holds the **downloads**. Get the latest version from the [R
 ## Install
 
 - **Android:** download the `.apk` from the latest release, open it on the phone, and allow installs from this source when asked.
-- **Windows:** download the `.zip`, unzip it, and run `mysite.exe` from inside the unzipped folder.
+- **Windows:** download `MySite-Setup-<version>.exe` and run it (Windows may say "unknown publisher": choose More info, then Run anyway). It installs MySite, adds shortcuts and opens it. Or download the `.zip`, unzip it, and run `mysite.exe` from inside the folder.
+- **User manual:** the PDF files on the release page, in English and Hindi.
 
 ## Status
 
